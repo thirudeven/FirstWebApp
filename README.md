@@ -1,3 +1,8 @@
+added from newly created local feature1 from romote branch feature1
+added from feature 1.3 again
+added from feature 1.3
+addd this line;
+added from feature1.1 to feature1
 AWS CodeStar Sample ASP.NET Core Web Application
 ==================================================
 
